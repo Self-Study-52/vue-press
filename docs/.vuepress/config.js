@@ -1,6 +1,6 @@
 module.exports = {
   // 设置base路径
-  base: "/Self-Study-52/",
+  base: "/vue-press/",
   // 设置右上角标题
   title: "Hello VuePress",
   // 会生成 meta 标签
