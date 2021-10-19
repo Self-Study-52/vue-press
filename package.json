@@ -8,6 +8,13 @@
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Self-Study-52/vue-press.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Self-Study-52/vue-press/issues"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
