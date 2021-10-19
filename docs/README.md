@@ -2,10 +2,6 @@
 home: true
 title: Home
 heroImage: /VuePress.png
-actions:
-  - text: 快速上手 →
-    link: ./guide/简介.md
-    type: primary
 features:
   - title: Simplicity First
     details: Minimal setup with markdown-centered project structure helps you focus on writing.
