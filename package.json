@@ -1,7 +1,8 @@
 {
-  "name": "01-VuePress_Quick_Start",
+  "name": "vue-press",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://github.com/Self-Study-52/vue-press#readme",
   "main": "index.js",
   "scripts": {
     "docs:dev": "vuepress dev docs",
@@ -11,6 +12,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "vuepress": "^1.8.2"
+    "vuepress": "^2.0.0-beta.26"
   }
 }
